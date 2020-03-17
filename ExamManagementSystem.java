@@ -17,7 +17,7 @@ public class ExamManagementSystem {
         System.out.println(p2.toString());
         System.out.println(p3.toString());
         
-        System.out.println(p1.toString()+new Course("java","CS103,"MCS"));
+        System.out.println(p1.toString()+new Course("java","CS104,"MCS"));
         System.out.println(p2.toString()+new Course("Islami Std","CS102","MSC"));
         System.out.println(p3.toString()+new Course("English","CS201","BS CS"));
     }
